@@ -1,18 +1,35 @@
 #pragma once
-#include "User.h"
-#include <string>
+#include <iostream>
 
+#include <SFML/Graphics.hpp>
+using namespace std;
 
-class Doctor : public User {
-public:
-Doctor() = default;
-Doctor(std::string id, std::string name, std::string speciality = "General") : User(std::move(id), std::move(name)), speciality(std::move(speciality)) {}
+class Doctor{
+    public:
+        string doctorID;
+        string specialization;
+        string doctorRole;
 
+        Doctor();
+        Doctor(string doctorID, string specialization, string doctorRole);
+        ~Doctor();
 
-std::string getSpeciality() const { return speciality; }
-void setSpeciality(const std::string& s) { speciality = s; }
+        void setDoctorID(string doctorID);
+        string getDoctorID() const;
+        void setSpecialization(string specialization);
+        string getSpecialization()const;
+        void setDoctorRole(string doctorRole);
+        string getDoctorRole() const;
 
+        friend ostream& operator<<(ostream&, const Doctor&);
+        // friend istream& operator>>(istream&, Doctor&);
 
-private:
-std::string speciality;
+   
+    private:
+        void findPatient(); // xây dựng class find riêng & rating - bac si
+        void viewAppointment(); // myTools.viewAppointment();
+        void markAsBusy(); // tương tự
 };
+
+// chung mot ham find => hash (băm trong băm)
+// 
