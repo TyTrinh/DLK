@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\Account.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\Account.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/Account.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/Account.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\Datastore.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\Datastore.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/Datastore.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/Datastore.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\Guest.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\Guest.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/Guest.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/Guest.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\Patient.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\Patient.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/Patient.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/Patient.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\Run.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\Run.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/Run.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/Run.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\UIHelpers.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\UIHelpers.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/UIHelpers.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/UIHelpers.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\User.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\User.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/User.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/User.cpp.obj"
+},
+{
+  "directory": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -I\"C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/include\" -g -std=gnu++17 -o CMakeFiles\\SFMLapp.dir\\src\\main.cpp.obj -c \"C:\\Users\\admin\\OneDrive - The University of Technology\\Desktop\\SFMLapp\\src\\main.cpp\"",
+  "file": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/src/main.cpp",
+  "output": "C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir/src/main.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/SFMLapp.dir
+C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/edit_cache.dir
+C:/Users/admin/OneDrive - The University of Technology/Desktop/SFMLapp/build/CMakeFiles/rebuild_cache.dir
