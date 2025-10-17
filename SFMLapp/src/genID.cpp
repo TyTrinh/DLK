@@ -31,11 +31,9 @@ genID::genID(const string& type){
         }
         if (type == "doctor"){
             doctorCount = stoi(last3);
-            //infile >> doctorCount;
         }
         else {
             patientCount = stoi(last3);
-           // infile >> patientCount;
         }
         infile.close();
     }
@@ -66,4 +64,5 @@ string genID::nextPatientID(){
     ostringstream oss;
     oss << "02" << setw(3) << setfill('0') << patientCount;
     return oss.str();
+
 }
