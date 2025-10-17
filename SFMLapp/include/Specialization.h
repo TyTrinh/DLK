@@ -1,5 +1,6 @@
 #pragma once
 #include <fstream>
+#include <sstream>
 #include <filesystem>
 // #include <map>
 #include "Doctor.h"
@@ -26,6 +27,7 @@ class Specialization{
 
         
         bool addDoctor(Doctor& doctor);
-        // bool removeDoctor(Doctor& doctor);
-        // bool listDoctor();
+        bool removeDoctor(Doctor& doctor);
+        bool updateInforDoctor(Doctor& doctor);
+        bool listDoctor();
 };
